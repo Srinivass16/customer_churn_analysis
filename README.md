@@ -3,8 +3,10 @@
 
 ## Problem Statement
 
-This analysis helps the telecom company understand their customers better, particularly their satisfaction with the services provided. The dataset includes columns with demographic and geographic information, details about referrals made by customers, and various services the customers have subscribed to, such as internet and streaming services etc . There are also columns related to payment and revenue, as well as a customer status column that indicates whether the customer has churned or is still with the company and to Identify the overall executive Summary
+This analysis helps the telecom company understand their customers better, particularly their satisfaction with the services provided. The dataset includes columns with demographic and geographic information, details about referrals made by customers, and various services the customers have subscribed to, such as internet and streaming services etc . There are also columns related to payment and revenue, as well as a customer status column that indicates whether the customer has churned or is still with the company and to Identify the overall executive Summary and also the main objective of this data analysis project is to conduct an in-depth examination of Telecom Customer Churn analysis. The project aims to identify early indicators and patterns associated with customer churn. 
 
+By deriving actionable insights from the data, the project seeks to provide valuable business operational and customer experience insights. 
+The ultimate goal is to equip the telecom company with actionable findings that can guide targeted retention efforts, effectively reducing customer churn and contributing to overall business sustainability and growth.
 
 ### Project Golas
 
