@@ -188,7 +188,7 @@ Create an entire ETL process in a database and a power bi dashboard to utilize t
 
 
 # Snapshot of churn analysis summary 
-![Screenshot (9)](https://github.com/user-attachments/assets/2fc93448-7e9b-4c4e-9138-673be5eed9ee)
+![Screenshot (9)](https://github.com/user-attachments/assets/dd974ba5-c0ab-4336-8bdb-678cdb358366)
 
 
 
