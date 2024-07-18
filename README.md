@@ -184,8 +184,7 @@ Create an entire ETL process in a database and a power bi dashboard to utilize t
 
 
 # Snapshot of Data Model (contains facts and dimension table )
-![Screenshot (4)](https://github.com/user-attachments/assets/1a49bbcc-75be-473f-afdd-cf92898b9ace)
-
+![Screenshot (4)](https://github.com/user-attachments/assets/2bc1c51a-36bb-48e2-8d33-b2955f41420c)
 
 
 # Snapshot of churn analysis summary 
