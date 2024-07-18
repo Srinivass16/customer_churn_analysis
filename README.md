@@ -196,8 +196,7 @@ Create an entire ETL process in a database and a power bi dashboard to utilize t
 
 
 # Snapshot of male customer summary 
-![Screenshot (8)](https://github.com/user-attachments/assets/4c4f834c-542e-4732-ab03-3b49dd2b880a)
-
+![Screenshot (8)](https://github.com/user-attachments/assets/d8480083-bf0a-40ec-aa75-a2efed1ad2ca)
 
 # Snaoshot of female customer summary 
 ![Screenshot (11)](https://github.com/user-attachments/assets/d4c2af41-bbda-43d9-9b1c-5372cb661ff2)
